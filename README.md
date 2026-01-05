@@ -10,7 +10,6 @@
 
 ### 🧠 Sobre mim
 - 💻 Desenvolvedor **Full Stack**
-- 🌎 Brasil (BRT)
 - ⚙️ Curto sistemas bem otimizados, automações e produtos reais
 - 🚀 Sempre buscando evoluir em arquitetura, performance e segurança
 
